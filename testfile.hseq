@@ -1,0 +1,10 @@
+﻿
+  <BasicPreMeasurmentDelay>0</BasicPreMeasurmentDelay>
+  <BasicMeasurementInterval>0</BasicMeasurementInterval>
+  <BasicNoOfMeasurements>5</BasicNoOfMeasurements>
+  <StandbyTemp>0</StandbyTemp>
+  <StandbyVar>2</StandbyVar>
+  <ControllerStandbyMode>SetStandbyTemp</ControllerStandbyMode>
+  <BasicPreMeasurmentDelay>0</BasicPreMeasurmentDelay>
+  <ActivityList>
+  
